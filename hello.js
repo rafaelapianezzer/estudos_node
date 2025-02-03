@@ -3,9 +3,9 @@
 
 const minhaVariavel = 10
 let outraVariavel = 20
-const teste = "amo programacao =)"
+
 
 
 console.log(minhaVariavel)
 console.log(outraVariavel)
-console.log(teste)
+
